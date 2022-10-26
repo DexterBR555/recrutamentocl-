@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+body
+{
+    width: 100%;
+    margin: 0%; 
+    background-image: url("background.jpg");
+}
+.Submit
+{
+    width: 100vw;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+}
+.btn-login {
+    width: 220px;
+    padding: 16px   0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 3px;
+    color:black;
+    background:cyan ;
+    cursor: pointer;
+    box-shadow: 0px 10px 40px  -12px #00ff8052   
+}
+.container
+{
+    text-align: center;
+    
+}
+
